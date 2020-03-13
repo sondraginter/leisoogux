@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phefoomie.shakespeareswim.org.uk/sitemap.xml
